@@ -38,8 +38,12 @@ body{
 
 #main{width: 1320px; height: 591px; margin: 0 auto;}
 
-#video{width: 1320px; height: 400px; margin: 0 auto;
-text-align: center;}
+
+#main video{
+  width: 800px; 
+  height: 400px; 
+ 
+}
 
 #con1{width: 1320px; height: 900px; margin: 0 auto;
 text-align: center;}
